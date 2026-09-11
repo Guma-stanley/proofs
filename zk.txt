@@ -1,0 +1,1 @@
+Zero knowledge proofs are a cryptographic techniques to prove that somethings exists without proving it.
