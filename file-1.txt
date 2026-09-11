@@ -1,1 +1,2 @@
 A smart contract is a self-executing digital agreement which runs when specified conditions are met.
+DeFi stands for Decentralized Finance
