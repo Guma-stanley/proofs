@@ -1,1 +1,2 @@
 A stable coin is a cryptocurrency whose value is pegged or tied to a known national currency.
+an example of a stable coin is the USDC by circle company
